@@ -74,7 +74,7 @@ class Matrix
 }
 
 /**
- * Ca
+ * Calculate fibonacci numbers.
  * @param int $a
  * @return int
  * @throws Exception
